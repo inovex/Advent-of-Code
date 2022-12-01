@@ -8,6 +8,8 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2022/blob/main/lib/day01.dart) by [traveling-developer]
 2. [C++](https://github.com/besrym/Advent-of-Code-2022/blob/main/day1/day1.cpp) by [besrym]
+3. [Rust](https://github.com/migerh/aoc-2022/blob/main/src/day01/mod.rs) by [migerh] in Rust
 
 [traveling-developer]: https://github.com/traveling-developer
 [besrym]: https://github.com/besrym
+[migerh]: https://github.com/migerh
