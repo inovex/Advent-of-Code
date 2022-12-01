@@ -6,6 +6,6 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 ### [Day 1](https://adventofcode.com/2022/day/1) 🧝‍♂️
 
-1. TBD
+1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2022/blob/main/lib/day01.dart) by [traveling-developer]
 
 [traveling-developer]: https://github.com/traveling-developer
