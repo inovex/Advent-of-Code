@@ -16,5 +16,5 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 [traveling-developer]: https://github.com/traveling-developer
 [besrym]: https://github.com/besrym
 [migerh]: https://github.com/migerh
-[fluttered]: https://github.comf/fluttered
-[andaryjo]: https://github.comf/andaryjo
+[fluttered]: https://github.com/fluttered
+[andaryjo]: https://github.com/andaryjo
