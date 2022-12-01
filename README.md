@@ -11,7 +11,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Rust](https://github.com/migerh/aoc-2022/blob/main/src/day01/mod.rs) by [migerh] in Rust
 1. [C#](https://github.com/fluttered/Advent-of-Code/blob/main/Day1.cs) by [fluttered]
 1. :snake: [Python](https://github.com/bossenti/advent-of-code-2022/tree/main/day01) by [bossenti]
-1. :fish: [fish](https://github.com/yogan/advent-of-code/blob/main/2022/day-01/day01.fish) by [yogan]
+1. :fish: [fish](https://github.com/yogan/advent-of-code/blob/main/2022/day-01/day01.fish) (with [tests](https://github.com/yogan/advent-of-code/blob/main/2022/day-01/test.fish)) by [yogan]
 1. [JS](https://gitlab.com/andary/aoc2022/-/tree/main/day1) by [andaryjo]
 
 [traveling-developer]: https://github.com/traveling-developer
