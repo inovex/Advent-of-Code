@@ -10,9 +10,11 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 2. [C++](https://github.com/besrym/Advent-of-Code-2022/blob/main/day1/day1.cpp) by [besrym]
 3. [Rust](https://github.com/migerh/aoc-2022/blob/main/src/day01/mod.rs) by [migerh] in Rust
 4. [C#](https://github.com/fluttered/Advent-of-Code/blob/main/Day1.cs) by [fluttered]
+5. :snake: [Python](https://github.com/bossenti/advent-of-code-2022/tree/main/day01) by [bossenti]
 
 
 [traveling-developer]: https://github.com/traveling-developer
 [besrym]: https://github.com/besrym
 [migerh]: https://github.com/migerh
 [fluttered]: https://github.comf/fluttered
+[bossenti]: https://github.com/bossenti
