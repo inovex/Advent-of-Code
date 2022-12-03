@@ -7,8 +7,9 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 ### [Day 2](https://adventofcode.com/2022/day/2) 🪨 📄 ✂️
 
 1. [Rust](https://github.com/migerh/aoc-2022/blob/main/src/day02/mod.rs) by [migerh]
-2. [C++](https://github.com/besrym/Advent-of-Code-2022/blob/main/day2/day2.cpp) by [besrym]
-3. [C#](https://github.com/fluttered/Advent-of-Code/blob/main/Day2.cs) by [fluttered]
+1. [C++](https://github.com/besrym/Advent-of-Code-2022/blob/main/day2/day2.cpp) by [besrym]
+1. [C#](https://github.com/fluttered/Advent-of-Code/blob/main/Day2.cs) by [fluttered]
+1. [JavaScript (Node 19/esm)](https://github.com/yogan/advent-of-code/blob/main/2022/day-02/day02.mjs) ([tests](https://github.com/yogan/advent-of-code/blob/main/2022/day-02/day02.test.mjs)) by [yogan]
 
 ### [Day 1](https://adventofcode.com/2022/day/1) 🧝‍♂️
 
