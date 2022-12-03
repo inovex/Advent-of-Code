@@ -7,9 +7,10 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 ### [Day 3](https://adventofcode.com/2022/day/3) 🎒
 
 1. [Rust](https://github.com/migerh/aoc-2022/blob/main/src/day03/mod.rs) by [migerh]
-2. :snake: [Python](https://github.com/bossenti/advent-of-code-2022/tree/main/day03) by [bossenti]
-3. [C++](https://github.com/besrym/Advent-of-Code-2022/blob/main/day3/day3.cpp) by [besrym]
-4. [Dart](https://github.com/traveling-developer/Advent-of-Code-2022/blob/main/lib/day03.dart) by [traveling-developer]
+1. :snake: [Python](https://github.com/bossenti/advent-of-code-2022/tree/main/day03) by [bossenti]
+1. [C++](https://github.com/besrym/Advent-of-Code-2022/blob/main/day3/day3.cpp) by [besrym]
+1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2022/blob/main/lib/day03.dart) by [traveling-developer]
+1. [TypeScript (Bun)](https://github.com/yogan/advent-of-code/blob/main/2022/day-03/day03.ts) ([tests](https://github.com/yogan/advent-of-code/blob/main/2022/day-03/day03.test.ts)) by [yogan]
 
 ### [Day 2](https://adventofcode.com/2022/day/2) 🪨 📄 ✂️
 
