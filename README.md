@@ -8,7 +8,8 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 1. [Rust](https://github.com/migerh/aoc-2022/blob/main/src/day04/mod.rs) by [migerh]
 1. :snake: [Python](https://github.com/bossenti/advent-of-code-2022/tree/main/day04) by [bossenti]
-3. [C++](https://github.com/besrym/Advent-of-Code-2022/blob/main/day4/day4.cpp) by [besrym]
+1. [C++](https://github.com/besrym/Advent-of-Code-2022/blob/main/day4/day4.cpp) by [besrym]
+1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2022/blob/main/lib/day04.dart) by [traveling-developer]
 
 ### [Day 3](https://adventofcode.com/2022/day/3) 🎒
 
