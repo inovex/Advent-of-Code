@@ -7,6 +7,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 ### [Day 4](https://adventofcode.com/2022/day/4) 🧹
 
 1. [Rust](https://github.com/migerh/aoc-2022/blob/main/src/day04/mod.rs) by [migerh]
+1. :snake: [Python](https://github.com/bossenti/advent-of-code-2022/tree/main/day04) by [bossenti]
 
 ### [Day 3](https://adventofcode.com/2022/day/3) 🎒
 
