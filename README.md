@@ -10,6 +10,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. :snake: [Python](https://github.com/bossenti/advent-of-code-2022/tree/main/day04) by [bossenti]
 1. [C++](https://github.com/besrym/Advent-of-Code-2022/blob/main/day4/day4.cpp) by [besrym]
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2022/blob/main/lib/day04.dart) by [traveling-developer]
+1. [Go](https://github.com/henninge/aoc-2022/tree/main/04) by [henninge]
 
 ### [Day 3](https://adventofcode.com/2022/day/3) 🎒
 
@@ -18,6 +19,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [C++](https://github.com/besrym/Advent-of-Code-2022/blob/main/day3/day3.cpp) by [besrym]
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2022/blob/main/lib/day03.dart) by [traveling-developer]
 1. [TypeScript (Bun)](https://github.com/yogan/advent-of-code/blob/main/2022/day-03/day03.ts) ([tests](https://github.com/yogan/advent-of-code/blob/main/2022/day-03/day03.test.ts)) by [yogan]
+1. [Go](https://github.com/henninge/aoc-2022/tree/main/03) by [henninge]
 
 ### [Day 2](https://adventofcode.com/2022/day/2) 🪨 📄 ✂️
 
@@ -27,6 +29,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [JavaScript (Node 19/esm)](https://github.com/yogan/advent-of-code/blob/main/2022/day-02/day02.mjs) ([tests](https://github.com/yogan/advent-of-code/blob/main/2022/day-02/day02.test.mjs)) by [yogan]
 1. :snake: [Python](https://github.com/bossenti/advent-of-code-2022/tree/main/day02) by [bossenti]
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2022/blob/main/lib/day02.dart) by [traveling-developer]
+1. [Python](https://github.com/henninge/aoc-2022/tree/main/02) by [henninge]
 
 ### [Day 1](https://adventofcode.com/2022/day/1) 🧝‍♂️
 
@@ -37,6 +40,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. :snake: [Python](https://github.com/bossenti/advent-of-code-2022/tree/main/day01) by [bossenti]
 1. :fish: [fish](https://github.com/yogan/advent-of-code/blob/main/2022/day-01/day01.fish) (with [tests](https://github.com/yogan/advent-of-code/blob/main/2022/day-01/test.fish)) by [yogan]
 1. [JS](https://gitlab.com/andary/aoc2022/-/tree/main/day1) by [andaryjo]
+1. [Python](https://github.com/henninge/aoc-2022/tree/main/01) by [henninge]
 
 [traveling-developer]: https://github.com/traveling-developer
 [besrym]: https://github.com/besrym
@@ -45,3 +49,4 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 [andaryjo]: https://github.com/andaryjo
 [bossenti]: https://github.com/bossenti
 [yogan]: https://github.com/yogan
+[henninge]: https://github.com/henninge
