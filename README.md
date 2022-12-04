@@ -21,6 +21,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2022/blob/main/lib/day03.dart) by [traveling-developer]
 1. [TypeScript (Bun)](https://github.com/yogan/advent-of-code/blob/main/2022/day-03/day03.ts) ([tests](https://github.com/yogan/advent-of-code/blob/main/2022/day-03/day03.test.ts)) by [yogan]
 1. [Go](https://github.com/henninge/aoc-2022/tree/main/03) by [henninge]
+1. [Go](https://github.com/timoyo93/aoc_22/tree/main/day_03) by [timoyo93]
 
 ### [Day 2](https://adventofcode.com/2022/day/2) 🪨 📄 ✂️
 
@@ -31,6 +32,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. :snake: [Python](https://github.com/bossenti/advent-of-code-2022/tree/main/day02) by [bossenti]
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2022/blob/main/lib/day02.dart) by [traveling-developer]
 1. [Python](https://github.com/henninge/aoc-2022/tree/main/02) by [henninge]
+1. [Go](https://github.com/timoyo93/aoc_22/tree/main/day_02) by [timoyo93]
 
 ### [Day 1](https://adventofcode.com/2022/day/1) 🧝‍♂️
 
@@ -42,6 +44,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. :fish: [fish](https://github.com/yogan/advent-of-code/blob/main/2022/day-01/day01.fish) (with [tests](https://github.com/yogan/advent-of-code/blob/main/2022/day-01/test.fish)) by [yogan]
 1. [JS](https://gitlab.com/andary/aoc2022/-/tree/main/day1) by [andaryjo]
 1. [Python](https://github.com/henninge/aoc-2022/tree/main/01) by [henninge]
+1. [Go](https://github.com/timoyo93/aoc_22/tree/main/day_01) by [timoyo93]
 
 [traveling-developer]: https://github.com/traveling-developer
 [besrym]: https://github.com/besrym
@@ -51,3 +54,4 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 [bossenti]: https://github.com/bossenti
 [yogan]: https://github.com/yogan
 [henninge]: https://github.com/henninge
+[timoyo93]: https://github.com/timoyo93
