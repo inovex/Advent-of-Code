@@ -11,6 +11,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [C++](https://github.com/besrym/Advent-of-Code-2022/blob/main/day4/day4.cpp) by [besrym]
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2022/blob/main/lib/day04.dart) by [traveling-developer]
 1. [Go](https://github.com/henninge/aoc-2022/tree/main/04) by [henninge]
+1. [Perl](https://github.com/yogan/advent-of-code/blob/main/2022/day-04/day04.pl) by [yogan]
 
 ### [Day 3](https://adventofcode.com/2022/day/3) 🎒
 
