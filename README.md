@@ -4,6 +4,10 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 ## Solutions for the [Advent of Code 2022](https://adventofcode.com/2022) 
 
+### [Day 5](https://adventofcode.com/2022/day/5) 📦
+
+1. [Rust](https://github.com/migerh/aoc-2022/blob/main/src/day05/mod.rs) by [migerh]
+
 ### [Day 4](https://adventofcode.com/2022/day/4) 🧹
 
 1. [Rust](https://github.com/migerh/aoc-2022/blob/main/src/day04/mod.rs) by [migerh]
