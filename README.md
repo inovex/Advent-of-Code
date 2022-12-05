@@ -7,6 +7,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 ### [Day 5](https://adventofcode.com/2022/day/5) 📦
 
 1. [Rust](https://github.com/migerh/aoc-2022/blob/main/src/day05/mod.rs) by [migerh]
+1. [Julia](https://github.com/CronJorian/advent-of-code/blob/2022/day05/julia.jl) by [CronJorian]
 
 ### [Day 4](https://adventofcode.com/2022/day/4) 🧹
 
@@ -16,6 +17,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2022/blob/main/lib/day04.dart) by [traveling-developer]
 1. [Go](https://github.com/henninge/aoc-2022/tree/main/04) by [henninge]
 1. [Perl](https://github.com/yogan/advent-of-code/blob/main/2022/day-04/day04.pl) by [yogan]
+1. [Julia](https://github.com/CronJorian/advent-of-code/blob/2022/day04/julia.jl) by [CronJorian]
 
 ### [Day 3](https://adventofcode.com/2022/day/3) 🎒
 
@@ -26,6 +28,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [TypeScript (Bun)](https://github.com/yogan/advent-of-code/blob/main/2022/day-03/day03.ts) ([tests](https://github.com/yogan/advent-of-code/blob/main/2022/day-03/day03.test.ts)) by [yogan]
 1. [Go](https://github.com/henninge/aoc-2022/tree/main/03) by [henninge]
 1. [Go](https://github.com/timoyo93/aoc_22/tree/main/day_03) by [timoyo93]
+1. [Julia](https://github.com/CronJorian/advent-of-code/blob/2022/day03/julia.jl) by [CronJorian]
 
 ### [Day 2](https://adventofcode.com/2022/day/2) 🪨 📄 ✂️
 
@@ -37,6 +40,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2022/blob/main/lib/day02.dart) by [traveling-developer]
 1. [Python](https://github.com/henninge/aoc-2022/tree/main/02) by [henninge]
 1. [Go](https://github.com/timoyo93/aoc_22/tree/main/day_02) by [timoyo93]
+1. [Julia](https://github.com/CronJorian/advent-of-code/blob/2022/day02/julia.jl) by [CronJorian]
 
 ### [Day 1](https://adventofcode.com/2022/day/1) 🧝‍♂️
 
@@ -49,6 +53,8 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [JS](https://gitlab.com/andary/aoc2022/-/tree/main/day1) by [andaryjo]
 1. [Python](https://github.com/henninge/aoc-2022/tree/main/01) by [henninge]
 1. [Go](https://github.com/timoyo93/aoc_22/tree/main/day_01) by [timoyo93]
+1. [Python](https://github.com/CronJorian/advent-of-code/blob/2022/day01/python.py) by [CronJorian]
+1. [Julia](https://github.com/CronJorian/advent-of-code/blob/2022/day01/julia.jl) by [CronJorian]
 
 [traveling-developer]: https://github.com/traveling-developer
 [besrym]: https://github.com/besrym
@@ -59,3 +65,4 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 [yogan]: https://github.com/yogan
 [henninge]: https://github.com/henninge
 [timoyo93]: https://github.com/timoyo93
+[CronJorian]: https://github.com/CronJorian
