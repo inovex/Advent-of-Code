@@ -14,6 +14,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2022/blob/main/lib/day06.dart) by [traveling-developer]
 1. :skull: [C](https://github.com/yogan/advent-of-code/blob/main/2022/day-06/day06.c) by [yogan]
 1. :crab: [Rust](https://github.com/jigfox/aoc-2022/blob/main/src/day06.rs) by [jigfox]
+1. [Julia](https://github.com/CronJorian/advent-of-code/blob/2022/day06/julia.jl) by [CronJorian]
 
 ### [Day 5](https://adventofcode.com/2022/day/5) 📦
 
