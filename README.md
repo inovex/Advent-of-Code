@@ -11,6 +11,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Dart](https://github.com/henninge/aoc-2022/tree/main/06-dart/06.dart) by [henninge]
 1. :snake: [Python](https://github.com/bossenti/advent-of-code-2022/tree/main/day06) by [bossenti]
 1. [Kotlin](https://github.com/paulschuetz/aoc-22/blob/main/src/main/kotlin/day06.kt) by [paulschuetz]
+1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2022/blob/main/lib/day06.dart) by [traveling-developer]
 
 ### [Day 5](https://adventofcode.com/2022/day/5) 📦
 
