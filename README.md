@@ -12,6 +12,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. :snake: [Python](https://github.com/bossenti/advent-of-code-2022/tree/main/day06) by [bossenti]
 1. [Kotlin](https://github.com/paulschuetz/aoc-22/blob/main/src/main/kotlin/day06.kt) by [paulschuetz]
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2022/blob/main/lib/day06.dart) by [traveling-developer]
+1. :skull: [C](https://github.com/yogan/advent-of-code/blob/main/2022/day-06/day06.c) by [yogan]
 
 ### [Day 5](https://adventofcode.com/2022/day/5) 📦
 
