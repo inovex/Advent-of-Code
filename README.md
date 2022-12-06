@@ -52,6 +52,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Julia](https://github.com/CronJorian/advent-of-code/blob/2022/day03/julia.jl) by [CronJorian]
 1. [Kotlin](https://github.com/paulschuetz/aoc-22/blob/main/src/main/kotlin/day03.kt) by [paulschuetz]
 1. :crab: [Rust](https://github.com/jigfox/aoc-2022/blob/main/src/day03.rs) by [jigfox]
+1. [JS](https://gitlab.com/andary/aoc2022/-/tree/main/day3) by [andaryjo]
 
 ### [Day 2](https://adventofcode.com/2022/day/2) 🪨 📄 ✂️
 
@@ -66,6 +67,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Julia](https://github.com/CronJorian/advent-of-code/blob/2022/day02/julia.jl) by [CronJorian]
 1. [Kotlin](https://github.com/paulschuetz/aoc-22/blob/main/src/main/kotlin/day02.kt) by [paulschuetz]
 1. :crab: [Rust](https://github.com/jigfox/aoc-2022/blob/main/src/day02.rs) by [jigfox]
+1. [JS](https://gitlab.com/andary/aoc2022/-/tree/main/day2) by [andaryjo]
 
 ### [Day 1](https://adventofcode.com/2022/day/1) 🧝‍♂️
 
