@@ -9,6 +9,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 1. [Go](https://github.com/henninge/aoc-2022/tree/main/07) by [henninge]
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2022/blob/main/lib/day07.dart) by [traveling-developer]
+1. 🦕 [Java](https://github.com/yogan/advent-of-code/blob/main/2022/day-07/src/main/java/de/zogan/aoc2022/Day07.java) ([tests](https://github.com/yogan/advent-of-code/blob/main/2022/day-07/src/test/java/de/zogan/aoc2022/Day07Tests.java)) by [yogan]
 
 ### [Day 6](https://adventofcode.com/2022/day/6) 📱
 
