@@ -36,6 +36,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Python](https://github.com/besrym/Advent-of-Code-2022/blob/main/day5/day5.py) by [besrym]
 1. [Kotlin](https://github.com/paulschuetz/aoc-22/blob/main/src/main/kotlin/day05.kt) by [paulschuetz]
 1. :crab: [Rust](https://github.com/jigfox/aoc-2022/blob/main/src/day05.rs) by [jigfox]
+1. [Go](https://gitlab.com/andary/aoc2022/-/tree/main/day5) by [andaryjo]
 
 ### [Day 4](https://adventofcode.com/2022/day/4) 🧹
 
@@ -48,6 +49,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Julia](https://github.com/CronJorian/advent-of-code/blob/2022/day04/julia.jl) by [CronJorian]
 1. [Kotlin](https://github.com/paulschuetz/aoc-22/blob/main/src/main/kotlin/day04.kt) by [paulschuetz]
 1. :crab: [Rust](https://github.com/jigfox/aoc-2022/blob/main/src/day04.rs) by [jigfox]
+1. [Go](https://gitlab.com/andary/aoc2022/-/tree/main/day4) by [andaryjo]
 
 ### [Day 3](https://adventofcode.com/2022/day/3) 🎒
 
