@@ -12,6 +12,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Kotlin](https://github.com/paulschuetz/aoc-22/blob/main/src/main/kotlin/day08.kt) by [paulschuetz]
 1. [Dart](https://gitlab.com/andary/aoc2022/-/tree/main/day8) by [andaryjo]
 1. :scientist: [Fortran](https://github.com/yogan/advent-of-code/blob/main/2022/day-08/day08.f90) ([tests](https://github.com/yogan/advent-of-code/blob/main/2022/day-08/tests.f90)) with *GOTO* by [yogan]
+1. [Dart](https://github.com/henninge/aoc-2022/tree/main/08/08.dart) by [henninge]
 
 ### [Day 7](https://adventofcode.com/2022/day/7) 📁
 
