@@ -18,6 +18,8 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. 🦕 [Java](https://github.com/yogan/advent-of-code/blob/main/2022/day-07/src/main/java/de/zogan/aoc2022/Day07.java) ([tests](https://github.com/yogan/advent-of-code/blob/main/2022/day-07/src/test/java/de/zogan/aoc2022/Day07Tests.java)) by [yogan]
 1. [Hacky JS](https://github.com/migerh/aoc-2022/blob/main/src/day07/day7.js) and [Ugly Rust](https://github.com/migerh/aoc-2022/blob/main/src/day07/mod.rs) by [migerh]
 1. [Kotlin](https://github.com/paulschuetz/aoc-22/blob/main/src/main/kotlin/day07.kt) by [paulschuetz]
+1. [Python](https://github.com/rudyeila/advent-of-code-2022/blob/main/day07/solution.py) by [rudyeila]
+
 
 ### [Day 6](https://adventofcode.com/2022/day/6) 📱
 
