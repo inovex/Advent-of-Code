@@ -10,6 +10,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Rust](https://github.com/migerh/aoc-2022/blob/main/src/day08/mod.rs) by [migerh]
 1. :snake: [Python](https://github.com/bossenti/advent-of-code-2022/tree/main/day08) by [bossenti]
 1. [Kotlin](https://github.com/paulschuetz/aoc-22/blob/main/src/main/kotlin/day08.kt) by [paulschuetz]
+1. [Dart](https://gitlab.com/andary/aoc2022/-/tree/main/day8) by [andaryjo]
 
 ### [Day 7](https://adventofcode.com/2022/day/7) 📁
 
@@ -18,6 +19,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. 🦕 [Java](https://github.com/yogan/advent-of-code/blob/main/2022/day-07/src/main/java/de/zogan/aoc2022/Day07.java) ([tests](https://github.com/yogan/advent-of-code/blob/main/2022/day-07/src/test/java/de/zogan/aoc2022/Day07Tests.java)) by [yogan]
 1. [Hacky JS](https://github.com/migerh/aoc-2022/blob/main/src/day07/day7.js) and [Ugly Rust](https://github.com/migerh/aoc-2022/blob/main/src/day07/mod.rs) by [migerh]
 1. [Kotlin](https://github.com/paulschuetz/aoc-22/blob/main/src/main/kotlin/day07.kt) by [paulschuetz]
+1. [JS](https://gitlab.com/andary/aoc2022/-/tree/main/day7) by [andaryjo]
 
 ### [Day 6](https://adventofcode.com/2022/day/6) 📱
 
