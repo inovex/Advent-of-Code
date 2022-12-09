@@ -76,7 +76,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. :crab: [Rust](https://github.com/jigfox/aoc-2022/blob/main/src/day04.rs) by [jigfox]
 1. [Go](https://gitlab.com/andary/aoc2022/-/tree/main/day4) by [andaryjo]
 1. [Go](https://github.com/wlbr/advent_of_code_2022/tree/main/day04) by [wlbr]
-1. [Common Lisp][https://github.com/wlbr/advent_of_code_2022/blob/main/day04/day04.lsp] by [wlbr]
+1. [Common Lisp](https://github.com/wlbr/advent_of_code_2022/blob/main/day04/day04.lsp) by [wlbr]
 
 ### [Day 3](https://adventofcode.com/2022/day/3) 🎒
 
@@ -125,7 +125,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Kotlin](https://github.com/paulschuetz/aoc-22/blob/main/src/main/kotlin/day01.kt) by [paulschuetz]
 1. :crab: [Rust](https://github.com/jigfox/aoc-2022/blob/main/src/day01.rs) by [jigfox]
 1. [Go](https://github.com/wlbr/advent_of_code_2022/tree/main/day01) by [wlbr]
-1. [Common Lisp][https://github.com/wlbr/advent_of_code_2022/blob/main/day01/day1.lsp] by [wlbr]
+1. [Common Lisp](https://github.com/wlbr/advent_of_code_2022/blob/main/day01/day1.lsp) by [wlbr]
 
 
 [traveling-developer]: https://github.com/traveling-developer
