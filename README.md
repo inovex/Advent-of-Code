@@ -8,6 +8,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 1. [Rust](https://github.com/migerh/aoc-2022/blob/main/src/day09/mod.rs) by [migerh]
 1. [Dart](https://github.com/henninge/aoc-2022/tree/main/09/09.dart) by [henninge]
+1. :crab: [Rust](https://github.com/jigfox/aoc-2022/blob/main/src/day09.rs) by [jigfox]
 
 ### [Day 8](https://adventofcode.com/2022/day/8) 🌲🌳🌲🌳🌲
 
@@ -15,8 +16,9 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. :snake: [Python](https://github.com/bossenti/advent-of-code-2022/tree/main/day08) by [bossenti]
 1. [Kotlin](https://github.com/paulschuetz/aoc-22/blob/main/src/main/kotlin/day08.kt) by [paulschuetz]
 1. [Dart](https://gitlab.com/andary/aoc2022/-/tree/main/day8) by [andaryjo]
-1. :scientist: [Fortran](https://github.com/yogan/advent-of-code/blob/main/2022/day-08/day08.f90) ([tests](https://github.com/yogan/advent-of-code/blob/main/2022/day-08/tests.f90)) with *GOTO* by [yogan]
+1. :scientist: [Fortran](https://github.com/yogan/advent-of-code/blob/main/2022/day-08/day08.f90) ([tests](https://github.com/yogan/advent-of-code/blob/main/2022/day-08/tests.f90)) with _GOTO_ by [yogan]
 1. [Dart](https://github.com/henninge/aoc-2022/tree/main/08/08.dart) by [henninge]
+1. :crab: [Rust](https://github.com/jigfox/aoc-2022/blob/main/src/day08.rs) by [jigfox]
 
 ### [Day 7](https://adventofcode.com/2022/day/7) 📁
 
@@ -121,6 +123,6 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 [yogan]: https://github.com/yogan
 [henninge]: https://github.com/henninge
 [timoyo93]: https://github.com/timoyo93
-[CronJorian]: https://github.com/CronJorian
+[cronjorian]: https://github.com/CronJorian
 [paulschuetz]: https://github.com/paulschuetz
 [jigfox]: https://github.com/jigfox
