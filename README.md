@@ -29,6 +29,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Hacky JS](https://github.com/migerh/aoc-2022/blob/main/src/day07/day7.js) and [Ugly Rust](https://github.com/migerh/aoc-2022/blob/main/src/day07/mod.rs) by [migerh]
 1. [Kotlin](https://github.com/paulschuetz/aoc-22/blob/main/src/main/kotlin/day07.kt) by [paulschuetz]
 1. [JS](https://gitlab.com/andary/aoc2022/-/tree/main/day7) by [andaryjo]
+1. :crab: [Rust](https://github.com/jigfox/aoc-2022/blob/main/src/day07.rs) by [jigfox]
 
 ### [Day 6](https://adventofcode.com/2022/day/6) 📱
 
