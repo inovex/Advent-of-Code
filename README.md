@@ -8,6 +8,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 1. [Rust](https://github.com/migerh/aoc-2022/blob/main/src/day10/mod.rs) by [migerh]
 1. [Go](https://github.com/henninge/aoc-2022/tree/main/10/10.go) by [henninge]
+1. [Kotlin](https://github.com/paulschuetz/aoc-22/blob/main/src/main/kotlin/day10.kt) by [paulschuetz]
 
 ### [Day 9](https://adventofcode.com/2022/day/9) 🐍
 
