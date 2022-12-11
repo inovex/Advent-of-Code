@@ -8,6 +8,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 1. [Rust](https://github.com/migerh/aoc-2022/blob/main/src/day11/mod.rs) by [migerh]
 1. [Go](https://github.com/henninge/aoc-2022/tree/main/11/11.go) by [henninge] with hint from [migerh]
+1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2022/blob/main/lib/day11.dart) by [traveling-developer]
 
 ### [Day 10](https://adventofcode.com/2022/day/10) 🖥️
 
@@ -15,6 +16,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Go](https://github.com/henninge/aoc-2022/tree/main/10/10.go) by [henninge]
 1. [Kotlin](https://github.com/paulschuetz/aoc-22/blob/main/src/main/kotlin/day10.kt) by [paulschuetz]
 1. [Lua](https://github.com/yogan/advent-of-code/blob/main/2022/day-10/day10.lua) ([tests](https://github.com/yogan/advent-of-code/blob/main/2022/day-10/day10_spec.lua)) by [yogan]
+1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2022/blob/main/lib/day10.dart) by [traveling-developer]
 
 ### [Day 9](https://adventofcode.com/2022/day/9) 🐍
 
@@ -24,6 +26,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Kotlin](https://github.com/paulschuetz/aoc-22/blob/main/src/main/kotlin/day09.kt) by [paulschuetz]
 1. [Go](https://github.com/wlbr/advent_of_code_2022/tree/main/day09) by [wlbr]
 1. [Nim](https://github.com/yogan/advent-of-code/blob/main/2022/day-09/day09.nim) by [yogan]
+1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2022/blob/main/lib/day09.dart) by [traveling-developer]
 
 ### [Day 8](https://adventofcode.com/2022/day/8) 🌲🌳🌲🌳🌲
 
@@ -35,6 +38,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Dart](https://github.com/henninge/aoc-2022/tree/main/08/08.dart) by [henninge]
 1. :crab: [Rust](https://github.com/jigfox/aoc-2022/blob/main/src/day08.rs) by [jigfox]
 1. [Go](https://github.com/wlbr/advent_of_code_2022/tree/main/day08) by [wlbr]
+1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2022/blob/main/lib/day08.dart) by [traveling-developer]
 
 ### [Day 7](https://adventofcode.com/2022/day/7) 📁
 
