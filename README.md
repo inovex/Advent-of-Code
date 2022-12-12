@@ -7,6 +7,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 ### [Day 12](https://adventofcode.com/2022/day/12) 🗺️
 
 1. [Rust](https://github.com/migerh/aoc-2022/blob/main/src/day12/mod.rs) by [migerh]
+1. :crab: [Rust](https://github.com/jigfox/aoc-2022/blob/main/src/day12.rs) by [jigfox]
 
 ### [Day 11](https://adventofcode.com/2022/day/11) 🐒
 
@@ -149,7 +150,6 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. :crab: [Rust](https://github.com/jigfox/aoc-2022/blob/main/src/day01.rs) by [jigfox]
 1. [Go](https://github.com/wlbr/advent_of_code_2022/tree/main/day01) by [wlbr]
 1. [Common Lisp](https://github.com/wlbr/advent_of_code_2022/blob/main/day01/day1.lsp) by [wlbr]
-
 
 [traveling-developer]: https://github.com/traveling-developer
 [besrym]: https://github.com/besrym
