@@ -18,6 +18,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2022/blob/main/lib/day11.dart) by [traveling-developer]
 1. [Kotlin](https://github.com/paulschuetz/aoc-22/blob/main/src/main/kotlin/day11.kt) by [paulschuetz]
 1. :eyeglasses: [C#](https://github.com/yogan/advent-of-code/blob/main/2022/day-11/Day11.cs) ([tests](https://github.com/yogan/advent-of-code/blob/main/2022/day-11/Day11Tests.cs), [main](https://github.com/yogan/advent-of-code/blob/main/2022/day-11/Program.cs)) with record structs by [yogan]
+1. :crab: [Rust](https://github.com/jigfox/aoc-2022/blob/main/src/day11.rs) by [jigfox]
 
 ### [Day 10](https://adventofcode.com/2022/day/10) 🖥️
 
@@ -26,6 +27,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Kotlin](https://github.com/paulschuetz/aoc-22/blob/main/src/main/kotlin/day10.kt) by [paulschuetz]
 1. [Lua](https://github.com/yogan/advent-of-code/blob/main/2022/day-10/day10.lua) ([tests](https://github.com/yogan/advent-of-code/blob/main/2022/day-10/day10_spec.lua)) by [yogan]
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2022/blob/main/lib/day10.dart) by [traveling-developer]
+1. :crab: [Rust](https://github.com/jigfox/aoc-2022/blob/main/src/day10.rs) by [jigfox]
 
 ### [Day 9](https://adventofcode.com/2022/day/9) 🐍
 
