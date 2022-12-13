@@ -4,6 +4,11 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 ## Solutions for the [Advent of Code 2022](https://adventofcode.com/2022)
 
+### [Day 13](https://adventofcode.com/2022/day/13) 🆘
+
+1. lazy [Python](https://github.com/henninge/aoc-2022/tree/main/13/13.py) by [henninge]
+
+
 ### [Day 12](https://adventofcode.com/2022/day/12) 🗺️
 
 1. [Rust](https://github.com/migerh/aoc-2022/blob/main/src/day12/mod.rs) by [migerh]
@@ -14,7 +19,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 ### [Day 11](https://adventofcode.com/2022/day/11) 🐒
 
 1. [Rust](https://github.com/migerh/aoc-2022/blob/main/src/day11/mod.rs) by [migerh]
-1. [Go](https://github.com/henninge/aoc-2022/tree/main/11/11.go) by [henninge] with hint from [migerh]
+1. [Dart](https://github.com/henninge/aoc-2022/tree/main/11/11.dart) by [henninge] with hint from [migerh]
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2022/blob/main/lib/day11.dart) by [traveling-developer]
 1. [Kotlin](https://github.com/paulschuetz/aoc-22/blob/main/src/main/kotlin/day11.kt) by [paulschuetz]
 1. :eyeglasses: [C#](https://github.com/yogan/advent-of-code/blob/main/2022/day-11/Day11.cs) ([tests](https://github.com/yogan/advent-of-code/blob/main/2022/day-11/Day11Tests.cs), [main](https://github.com/yogan/advent-of-code/blob/main/2022/day-11/Program.cs)) with record structs by [yogan]
