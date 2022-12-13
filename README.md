@@ -7,6 +7,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 ### [Day 13](https://adventofcode.com/2022/day/13) 🆘
 
 1. lazy [Python](https://github.com/henninge/aoc-2022/tree/main/13/13.py) by [henninge]
+1. [Kotlin](https://github.com/paulschuetz/aoc-22/blob/main/src/main/kotlin/day13.kt) by [paulschuetz]
 
 
 ### [Day 12](https://adventofcode.com/2022/day/12) 🗺️
@@ -15,6 +16,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. :crab: [Rust](https://github.com/jigfox/aoc-2022/blob/main/src/day12.rs) by [jigfox]
 1. :snake: [Python](https://github.com/yogan/advent-of-code/blob/main/2022/day-12/day12.py) by [yogan]
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2022/blob/main/lib/day12.dart) by [traveling-developer]
+1. [Kotlin](https://github.com/paulschuetz/aoc-22/blob/main/src/main/kotlin/day12.kt) by [paulschuetz]
 
 ### [Day 11](https://adventofcode.com/2022/day/11) 🐒
 
