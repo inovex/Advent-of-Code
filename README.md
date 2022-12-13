@@ -8,7 +8,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 1. lazy [Python](https://github.com/henninge/aoc-2022/tree/main/13/13.py) by [henninge]
 1. [Kotlin](https://github.com/paulschuetz/aoc-22/blob/main/src/main/kotlin/day13.kt) by [paulschuetz]
-
+1. [Python](https://github.com/yogan/advent-of-code/blob/main/2022/day-13/day13.py) (skipped input data parsing) by [yogan]
 
 ### [Day 12](https://adventofcode.com/2022/day/12) 🗺️
 
