@@ -11,6 +11,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2022/day-13/day13.py#L485) (skipped input parsing, [tweaked static inline data](https://github.com/yogan/advent-of-code/blob/main/2022/day-13/day13.py#L3) instead) by [yogan]
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2022/blob/main/lib/day13.dart) by [traveling-developer]
 1. [JS](https://github.com/migerh/aoc-2022/blob/main/src/day13/day13.js) and [Rust](https://github.com/migerh/aoc-2022/blob/main/src/day13/mod.rs) by [migerh]
+1. :crab: [Rust](https://github.com/jigfox/aoc-2022/blob/main/src/day13.rs) by [jigfox]
 
 ### [Day 12](https://adventofcode.com/2022/day/12) 🗺️
 
