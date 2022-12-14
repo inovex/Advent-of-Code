@@ -9,6 +9,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Rust](https://github.com/migerh/aoc-2022/blob/main/src/day14/mod.rs) by [migerh]
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2022/day-14/day14.py) by [yogan]
 1. [Kotlin](https://github.com/paulschuetz/aoc-22/blob/main/src/main/kotlin/day14.kt) by [paulschuetz]
+1. :crab: [Rust](https://github.com/jigfox/aoc-2022/blob/main/src/day14.rs) by [jigfox]
 
 ### [Day 13](https://adventofcode.com/2022/day/13) 🆘
 
