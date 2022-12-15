@@ -8,6 +8,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 1. Very inefficient [Rust](https://github.com/migerh/aoc-2022/blob/main/src/day15/mod.rs) by [migerh]
 1. :crab: [Rust](https://github.com/jigfox/aoc-2022/blob/main/src/day15.rs) by [jigfox] part 2 inspired by [migerh] :blue_heart:
+1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2022/blob/main/lib/day15.dart) by [traveling-developer]
 
 ### [Day 14](https://adventofcode.com/2022/day/14) ⏳
 
