@@ -8,6 +8,10 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 1. Very efficient [Rust](https://github.com/migerh/aoc-2022/blob/main/src/day17/mod.rs) by [migerh]
 
+### [Day 16](https://adventofcode.com/2022/day/16) 🚰
+
+n.a.
+
 ### [Day 15](https://adventofcode.com/2022/day/15) 🚨
 
 1. Very inefficient [Rust](https://github.com/migerh/aoc-2022/blob/main/src/day15/mod.rs) by [migerh]
