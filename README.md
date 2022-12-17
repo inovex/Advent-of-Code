@@ -7,6 +7,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 ### [Day 17](https://adventofcode.com/2022/day/17) 🕹️🧱
 
 1. Very efficient [Rust](https://github.com/migerh/aoc-2022/blob/main/src/day17/mod.rs) by [migerh]
+1. [Python](https://github.com/yogan/advent-of-code/blob/main/2022/day-17/day17.py) by [yogan] (runs fast, but the code… 💀)
 
 ### [Day 16](https://adventofcode.com/2022/day/16) 🚰
 
