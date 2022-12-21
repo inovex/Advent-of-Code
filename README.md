@@ -8,6 +8,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 1. [Rust](https://github.com/migerh/aoc-2022/blob/main/src/day21/mod.rs) by [migerh]
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2022/day-21/day21.py) by [yogan]
+1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2022/blob/main/lib/day21.dart) by [traveling-developer]
 
 ### [Day 20](https://adventofcode.com/2022/day/20) 🛰️ 🌍 🔑
 
