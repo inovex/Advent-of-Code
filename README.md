@@ -26,6 +26,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Rust](https://github.com/migerh/aoc-2022/blob/main/src/day18/mod.rs) by [migerh]
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code-2022/blob/main/lib/day18.dart) by [traveling-developer]
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2022/day-18/day18.py) by [yogan] with [3D plots](https://github.com/yogan/advent-of-code/blob/main/2022/day-18/README.md)
+1. [Kotlin](https://github.com/paulschuetz/aoc-22/blob/main/src/main/kotlin/day18.kt) by [paulschuetz]
 
 ### [Day 17](https://adventofcode.com/2022/day/17) 🕹️🧱
 
