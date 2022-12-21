@@ -19,6 +19,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2022/day-19/day19.py) by [yogan] 😓🔫
 1. [Rust](https://github.com/migerh/aoc-2022/blob/main/src/day19/mod.rs) by [migerh] (ノಠ益ಠ)ノ彡┻━┻
+1. [Kotlin](https://github.com/paulschuetz/aoc-22/blob/main/src/main/kotlin/day19.kt) by [paulschuetz]
 
 ### [Day 18](https://adventofcode.com/2022/day/18) 💧
 
