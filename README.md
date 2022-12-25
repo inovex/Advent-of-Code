@@ -50,6 +50,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 ### [Day 16](https://adventofcode.com/2022/day/16) 🚰
 
 1. [Kotlin](https://github.com/paulschuetz/aoc-22/blob/main/src/main/kotlin/day16.kt) by [paulschuetz]
+1. 🐌 [Rust](https://github.com/migerh/aoc-2022/blob/main/src/day16/mod.rs) by [migerh]
 
 ### [Day 15](https://adventofcode.com/2022/day/15) 🚨
 
