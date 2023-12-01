@@ -10,4 +10,4 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 ### [Day 1](https://adventofcode.com/2023/day/1)
 
-1. [Language](Link) by [Name](Link)
+1. [Python](https://github.com/besrym/Advent-of-Code-2023/blob/main/day_1/day1.py) by [besrym](https://github.com/besrym) ☃️
