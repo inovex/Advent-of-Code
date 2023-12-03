@@ -12,12 +12,14 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code/blob/main/2023/lib/day03.dart) by [traveling-developer]
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2023/day-03/day03.py) by [yogan]
+1. [Rust](https://github.com/migerh/aoc-2023/blob/main/src/day03/mod.rs) by [migerh]
 
 ### [Day 2](https://adventofcode.com/2023/day/2)
 
 1. [Dart](https://github.com/henninge/aoc-2023/tree/main/02/02.dart) by [henninge](https://github.com/henninge)
 1. [Clojure](https://github.com/yogan/advent-of-code/blob/main/2023/day-02/src/advent_of_code_template/core.clj) ([tests](https://github.com/yogan/advent-of-code/blob/main/2023/day-02/test/advent_of_code_template/core_test.clj)) by [yogan]
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code/blob/main/2023/lib/day02.dart) by [traveling-developer]
+1. [Rust](https://github.com/migerh/aoc-2023/blob/main/src/day02/mod.rs) by [migerh]
 
 ### [Day 1](https://adventofcode.com/2023/day/1)
 
@@ -25,6 +27,8 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Dart](https://github.com/henninge/aoc-2023/tree/main/01/01.dart) by [henninge](https://github.com/henninge)
 1. [fish](https://github.com/yogan/advent-of-code/blob/main/2023/day-01/day01.fish) ([tests](https://github.com/yogan/advent-of-code/blob/main/2023/day-01/test.fish)) by [yogan]
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code/blob/main/2023/lib/day01.dart) by [traveling-developer]
+1. [Rust](https://github.com/migerh/aoc-2023/blob/main/src/day01/mod.rs) by [migerh]
 
+[migerh]: https://github.com/migerh
 [traveling-developer]: https://github.com/traveling-developer
 [yogan]: https://github.com/yogan
