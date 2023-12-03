@@ -8,6 +8,10 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 ## Solutions for the [Advent of Code 2023](https://adventofcode.com/2023)
 
+### [Day 3](https://adventofcode.com/2023/day/3)
+
+1. [Dart](https://github.com/traveling-developer/Advent-of-Code/blob/main/2023/lib/day03.dart) by [traveling-developer]
+
 ### [Day 2](https://adventofcode.com/2023/day/2)
 
 1. [Dart](https://github.com/henninge/aoc-2023/tree/main/02/02.dart) by [henninge](https://github.com/henninge)
