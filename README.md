@@ -11,6 +11,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 ### [Day 4](https://adventofcode.com/2023/day/4)
 
 1. [Rust](https://github.com/migerh/aoc-2023/blob/main/src/day04/mod.rs) by [migerh]
+1. [Dart](https://github.com/traveling-developer/Advent-of-Code/blob/main/2023/lib/day04.dart) by [traveling-developer]
 
 ### [Day 3](https://adventofcode.com/2023/day/3)
 
