@@ -11,6 +11,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 ### [Day 6](https://adventofcode.com/2023/day/6)
 
 1. [Rust](https://github.com/migerh/aoc-2023/blob/main/src/day06/mod.rs) by [migerh]
+1. [Zig](https://github.com/yogan/advent-of-code/blob/main/2023/day-06/src/main.zig) by [yogan] *(including a memory leak… ☠️)*
 
 ### [Day 5](https://adventofcode.com/2023/day/5)
 
