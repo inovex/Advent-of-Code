@@ -10,7 +10,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 ### [Day 7](https://adventofcode.com/2023/day/7)
 
-1. [Rust](https://github.com/migerh/aoc-2023/blob/main/src/day07/mod.rs) by [migerh]
+1. Rust [main.rs](https://github.com/migerh/aoc-2023/blob/main/src/day07/mod.rs) [hand.rs](https://github.com/migerh/aoc-2023/blob/main/src/day07/hand.rs) by [migerh]
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2023/day-07/day07.py) by [yogan]
 
 ### [Day 6](https://adventofcode.com/2023/day/6)
