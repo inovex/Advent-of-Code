@@ -12,11 +12,13 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 1. [Rust](https://github.com/migerh/aoc-2023/blob/main/src/day09/mod.rs) by [migerh]
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2023/day-09/day09.py) by [yogan]
+1. [Dart](https://github.com/traveling-developer/Advent-of-Code/blob/main/2023/lib/day09.dart) by [traveling-developer]
 
 ### [Day 8](https://adventofcode.com/2023/day/8) 🐪👻
 
 1. [Rust](https://github.com/migerh/aoc-2023/blob/main/src/day08/mod.rs) by [migerh]
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2023/day-08/day08.py) by [yogan]
+1. [Dart](https://github.com/traveling-developer/Advent-of-Code/blob/main/2023/lib/day08.dart) by [traveling-developer]
 
 ### [Day 7](https://adventofcode.com/2023/day/7)
 
