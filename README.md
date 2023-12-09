@@ -22,16 +22,19 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 1. Rust [main.rs](https://github.com/migerh/aoc-2023/blob/main/src/day07/mod.rs) [hand.rs](https://github.com/migerh/aoc-2023/blob/main/src/day07/hand.rs) by [migerh]
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2023/day-07/day07.py) by [yogan]
+1. [Dart](https://github.com/traveling-developer/Advent-of-Code/blob/main/2023/lib/day07.dart) by [traveling-developer]
 
 ### [Day 6](https://adventofcode.com/2023/day/6)
 
 1. [Rust](https://github.com/migerh/aoc-2023/blob/main/src/day06/mod.rs) by [migerh]
 1. [Zig](https://github.com/yogan/advent-of-code/blob/main/2023/day-06/src/main.zig) by [yogan] *(including a memory leak… ☠️)*
+1. [Dart](https://github.com/traveling-developer/Advent-of-Code/blob/main/2023/lib/day06.dart) by [traveling-developer]
 
 ### [Day 5](https://adventofcode.com/2023/day/5)
 
 1. [Rust](https://github.com/migerh/aoc-2023/blob/main/src/day05/mod.rs) by [migerh]
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2023/day-05/day05.py) by [yogan]
+1. [Dart](https://github.com/traveling-developer/Advent-of-Code/blob/main/2023/lib/day05.dart) by [traveling-developer]
 
 ### [Day 4](https://adventofcode.com/2023/day/4)
 
