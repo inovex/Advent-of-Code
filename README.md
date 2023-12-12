@@ -19,6 +19,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2023/day-11/day11.py) by [yogan]
 1. [JavaScript](https://github.com/marouanetayab/aoc-2023/blob/main/Day11/solution.js) by [marouanetayab]
 1. [Ruby](https://github.com/jigfox/aoc-2023/blob/main/day11.rb) by [jigfox]
+1. [JavaScript](https://github.com/webnina/advent-of-code-2023/blob/main/tag-11) by [webnina]
 
 ### [Day 10](https://adventofcode.com/2023/day/10) 🐻
 
