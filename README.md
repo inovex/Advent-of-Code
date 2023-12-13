@@ -11,6 +11,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 ### [Day 13](https://adventofcode.com/2023/day/13) 🪞
 
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2023/day-13/day13.py) by [yogan]
+1. [JavaScript](https://github.com/marouanetayab/aoc-2023/blob/main/Day13/solution.js) by [marouanetayab] 
 
 ### [Day 12](https://adventofcode.com/2023/day/12) 🌋
 
