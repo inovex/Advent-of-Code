@@ -13,18 +13,21 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [JavaScript](https://github.com/marouanetayab/aoc-2023/blob/main/Day15/solution.js) by [marouanetayab] 
 1. [Rust](https://github.com/migerh/aoc-2023/blob/main/src/day15/mod.rs) by [migerh]
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2023/day-15/day15.py) by [yogan]
+1. [Ruby](https://github.com/jigfox/aoc-2023/blob/main/day15.rb) by [jigfox]
 
 ### [Day 14](https://adventofcode.com/2023/day/14) 🪨
 
 1. [Rust](https://github.com/migerh/aoc-2023/blob/main/src/day14/mod.rs) by [migerh]
 1. [JavaScript](https://github.com/marouanetayab/aoc-2023/blob/main/Day14/solution.js) by [marouanetayab] 
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2023/day-14/day14.py) by [yogan]
+1. [Ruby](https://github.com/jigfox/aoc-2023/blob/main/day14.rb) by [jigfox]
 
 ### [Day 13](https://adventofcode.com/2023/day/13) 🪞
 
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2023/day-13/day13.py) by [yogan]
 1. [JavaScript](https://github.com/marouanetayab/aoc-2023/blob/main/Day13/solution.js) by [marouanetayab] 
 1. [Rust](https://github.com/migerh/aoc-2023/blob/main/src/day13/mod.rs) by [migerh]
+1. [Ruby](https://github.com/jigfox/aoc-2023/blob/main/day13.rb) by [jigfox]
 
 ### [Day 12](https://adventofcode.com/2023/day/12) 🌋
 
