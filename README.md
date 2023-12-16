@@ -19,6 +19,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Rust](https://github.com/migerh/aoc-2023/blob/main/src/day15/mod.rs) by [migerh]
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2023/day-15/day15.py) by [yogan]
 1. [Ruby](https://github.com/jigfox/aoc-2023/blob/main/day15.rb) by [jigfox]
+1. [JavaScript](https://github.com/webnina/advent-of-code-2023/blob/main/tag-15) by [webnina]
 
 ### [Day 14](https://adventofcode.com/2023/day/14) 🪨
 
