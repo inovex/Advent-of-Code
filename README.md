@@ -108,6 +108,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [JavaScript](https://github.com/marouanetayab/aoc-2023/blob/main/Day6/solution.js) by [marouanetayab]
 1. [Ruby](https://github.com/jigfox/aoc-2023/blob/main/day06.rb) by [jigfox]
 1. [JavaScript](https://github.com/webnina/advent-of-code-2023/blob/main/tag-6) by [webnina]
+1. [Python](https://github.com/besrym/advent-of-code/blob/main/2023/day_6/day6.py) by [besrym]
 
 ### [Day 5](https://adventofcode.com/2023/day/5) 🌿
 
@@ -123,7 +124,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code/blob/main/2023/lib/day04.dart) by [traveling-developer]
 1. [DDP - Die Deutsche Programmiersprache](https://github.com/yogan/advent-of-code/blob/main/2023/day-04/Tag4.ddp) by [yogan]
 1. [Dart](https://github.com/henninge/aoc-2023/tree/main/04/04.dart) by [henninge]
-1. [Python](https://github.com/besrym/Advent-of-Code-2023/blob/main/day_4/day4.py) by [besrym]
+1. [Python](https://github.com/besrym/advent-of-code/blob/main/2023/day_4/day4.py) by [besrym]
 1. [JavaScript](https://github.com/marouanetayab/aoc-2023/blob/main/Day4/solution.js) by [marouanetayab]
 1. [Ruby](https://github.com/jigfox/aoc-2023/blob/main/day04.rb) by [jigfox]
 1. [JavaScript](https://github.com/webnina/advent-of-code-2023/blob/main/tag-4) by [webnina]
@@ -136,6 +137,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [JavaScript](https://github.com/marouanetayab/aoc-2023/blob/main/Day3/solution.js) by [marouanetayab]
 1. [Ruby](https://github.com/jigfox/aoc-2023/blob/main/day03.rb) by [jigfox]
 1. [JavaScript](https://github.com/webnina/advent-of-code-2023/blob/main/tag-3) by [webnina]
+1. [Python](https://github.com/besrym/advent-of-code/blob/main/2023/day_3/day3.py) by [besrym]
 
 ### [Day 2](https://adventofcode.com/2023/day/2) 🎲
 
@@ -143,14 +145,14 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Clojure](https://github.com/yogan/advent-of-code/blob/main/2023/day-02/src/advent_of_code_template/core.clj) ([tests](https://github.com/yogan/advent-of-code/blob/main/2023/day-02/test/advent_of_code_template/core_test.clj)) by [yogan]
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code/blob/main/2023/lib/day02.dart) by [traveling-developer]
 1. [Rust](https://github.com/migerh/aoc-2023/blob/main/src/day02/mod.rs) by [migerh]
-1. [Python](https://github.com/besrym/Advent-of-Code-2023/blob/main/day_2/day2.py) by [besrym]
+1. [Python](https://github.com/besrym/advent-of-code/blob/main/2023/day_2/day2.py) by [besrym]
 1. [JavaScript](https://github.com/marouanetayab/aoc-2023/blob/main/Day2/solution.js) by [marouanetayab]
 1. [Ruby](https://github.com/jigfox/aoc-2023/blob/main/day02.rb) by [jigfox]
 1. [JavaScript](https://github.com/webnina/advent-of-code-2023/blob/main/tag-2) by [webnina]
 
 ### [Day 1](https://adventofcode.com/2023/day/1) ⚙️
 
-1. [Python](https://github.com/besrym/Advent-of-Code-2023/blob/main/day_1/day1.py) by [besrym] ☃️
+1. [Python](https://github.com/besrym/advent-of-code/blob/main/2023/day_1/day1.py) by [besrym] ☃️
 1. [Dart](https://github.com/henninge/aoc-2023/tree/main/01/01.dart) by [henninge]
 1. [fish](https://github.com/yogan/advent-of-code/blob/main/2023/day-01/day01.fish) ([tests](https://github.com/yogan/advent-of-code/blob/main/2023/day-01/test.fish)) by [yogan]
 1. [Dart](https://github.com/traveling-developer/Advent-of-Code/blob/main/2023/lib/day01.dart) by [traveling-developer]
