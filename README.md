@@ -11,6 +11,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 ### [Day 20](https://adventofcode.com/2023/day/20)
 
 1. [JavaScript](https://github.com/marouanetayab/aoc-2023/blob/main/Day20/solution.js) by [marouanetayab] 
+1. [Rust](https://github.com/migerh/aoc-2023/blob/main/src/day20/) by [migerh]
 
 ### [Day 19](https://adventofcode.com/2023/day/19) ✅
 
