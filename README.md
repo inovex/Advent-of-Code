@@ -8,6 +8,10 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 ## Solutions for the [Advent of Code 2023](https://adventofcode.com/2023)
 
+### [Day 20](https://adventofcode.com/2023/day/20)
+
+1. [JavaScript](https://github.com/marouanetayab/aoc-2023/blob/main/Day20/solution.js) by [marouanetayab] 
+
 ### [Day 19](https://adventofcode.com/2023/day/19) ✅
 
 1. [JavaScript](https://github.com/marouanetayab/aoc-2023/blob/main/Day19/solution.js) by [marouanetayab] 
