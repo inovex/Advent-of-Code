@@ -8,6 +8,10 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 ## Solutions for the [Advent of Code 2023](https://adventofcode.com/2023)
 
+### [Day 22](https://adventofcode.com/2023/day/22) 👣
+
+1. [Rust](https://github.com/migerh/aoc-2023/blob/main/src/day22/mod.rs) by [migerh]
+
 ### [Day 21](https://adventofcode.com/2023/day/21) 👣
 
 1. [Rust](https://github.com/migerh/aoc-2023/blob/main/src/day21/) by [migerh]
