@@ -10,7 +10,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 ### [Day 24](https://adventofcode.com/2023/day/24) 🌨️
 
-1. [Rust](https://github.com/migerh/aoc-2024/blob/main/src/day24/mod.rs) incl. [explanation for part 2](https://github.com/migerh/aoc-2024/blob/main/src/day24/) by [migerh]
+1. [Rust](https://github.com/migerh/aoc-2023/blob/main/src/day24/mod.rs) incl. [explanation for part 2](https://github.com/migerh/aoc-2023/blob/main/src/day24/) by [migerh]
 
 ### [Day 23](https://adventofcode.com/2023/day/23) 👣
 
