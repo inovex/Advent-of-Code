@@ -17,7 +17,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Rust](https://github.com/migerh/aoc-2023/blob/main/src/day24/mod.rs) incl. [explanation for part 2](https://github.com/migerh/aoc-2023/blob/main/src/day24/) by [migerh]
 1. [JavaScript](https://github.com/marouanetayab/aoc-2023/blob/main/Day24/solution.js) by [marouanetayab] 
 
-### [Day 23](https://adventofcode.com/2023/day/23) 👣
+### [Day 23](https://adventofcode.com/2023/day/23) 🚶
 
 1. [JavaScript](https://github.com/marouanetayab/aoc-2023/blob/main/Day23/solution.js) by [marouanetayab] 
 1. [Rust](https://github.com/migerh/aoc-2023/blob/main/src/day23/mod.rs) by [migerh]
