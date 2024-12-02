@@ -18,6 +18,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 ### [Day 2](https://adventofcode.com/2024/day/2) ️🔴
 
+1. [Bash](https://github.com/yogan/advent-of-code/blob/main/2024/day-02-bash/aoc.bash) by [yogan]
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2024/day-02-python/aoc.py) by [yogan]
 
 [migerh]: https://github.com/migerh
