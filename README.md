@@ -20,6 +20,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 1. [Bash](https://github.com/yogan/advent-of-code/blob/main/2024/day-02-bash/aoc.bash) by [yogan]
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2024/day-02-python/aoc.py) by [yogan]
+1. [Rust](https://github.com/migerh/aoc-2024/blob/main/src/day02/mod.rs) by [migerh]
 
 [migerh]: https://github.com/migerh
 [yogan]: https://github.com/yogan
