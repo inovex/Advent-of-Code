@@ -13,6 +13,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 1. [Rust](https://github.com/migerh/aoc-2024/blob/main/src/day03/mod.rs) by [migerh]
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2024/day-03-python/aoc.py) by [yogan]
+1. [C#](https://github.com/yogan/advent-of-code/blob/main/2024/day-03-csharp/AoC.cs) ([tests](https://github.com/yogan/advent-of-code/blob/main/2024/day-03-csharp/AoCTests.cs)) by [yogan]
 1. [Kotlin](https://github.com/jschamburger/advent-of-code-2024/blob/main/src/Day03.kt) by [jschamburger]
 1. [Rust](https://github.com/phyk/advent-of-code-2024/blob/main/src/bin/03.rs) by [phyk]
 
