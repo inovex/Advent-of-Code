@@ -13,18 +13,22 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 1. [Rust](https://github.com/migerh/aoc-2024/blob/main/src/day03/mod.rs) by [migerh]
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2024/day-03-python/aoc.py) by [yogan]
+1. [Kotlin](https://github.com/jschamburger/advent-of-code-2024/blob/main/src/Day03.kt) by [jschamburger]
 
 ### [Day 2](https://adventofcode.com/2024/day/2) ️🔴
 
 1. [Bash](https://github.com/yogan/advent-of-code/blob/main/2024/day-02-bash/aoc.bash) by [yogan]
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2024/day-02-python/aoc.py) by [yogan]
 1. [Rust](https://github.com/migerh/aoc-2024/blob/main/src/day02/mod.rs) by [migerh]
+1. [Kotlin](https://github.com/jschamburger/advent-of-code-2024/blob/main/src/Day02.kt) by [jschamburger]
 
 ### [Day 1](https://adventofcode.com/2024/day/1) ️🆔
 
 1. [Rust](https://github.com/migerh/aoc-2024/blob/main/src/day01/mod.rs) by [migerh]
 1. [Awk](https://github.com/yogan/advent-of-code/blob/main/2024/day-01-awk/aoc.awk) by [yogan]
 1. [Vim](https://github.com/yogan/advent-of-code/blob/main/vim/2024/day-01/aoc.vim) by [yogan]
+1. [Kotlin](https://github.com/jschamburger/advent-of-code-2024/blob/main/src/Day01.kt) by [jschamburger]
 
 [migerh]: https://github.com/migerh
 [yogan]: https://github.com/yogan
+[jschamburger]: https://github.com/jschamburger
