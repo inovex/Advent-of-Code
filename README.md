@@ -35,3 +35,4 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 [migerh]: https://github.com/migerh
 [yogan]: https://github.com/yogan
 [jschamburger]: https://github.com/jschamburger
+[phyk]: https://github.com/phyk
