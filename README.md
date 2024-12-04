@@ -12,6 +12,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 ### [Day 4](https://adventofcode.com/2024/day/4) 🔠
 
 1. [Rust](https://github.com/migerh/aoc-2024/blob/main/src/day04/mod.rs) by [migerh]
+1. [Kotlin](https://github.com/jschamburger/advent-of-code-2024/blob/main/src/Day04.kt) by [jschamburger]
 
 ### [Day 3](https://adventofcode.com/2024/day/3) ️✖️
 
