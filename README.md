@@ -9,6 +9,10 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 ## Solutions for the [Advent of Code 2024](https://adventofcode.com/2024)
 
+### [Day 10](https://adventofcode.com/2024/day/10) 
+
+1. [JavaScript](https://github.com/marouanetayab/Advent_of_Code_2024/blob/main/Day10/solution.js) by [marouanetayab]
+
 ### [Day 9](https://adventofcode.com/2024/day/9) 💾
 
 1. [Rust](https://github.com/migerh/aoc-2024/blob/main/src/day09/mod.rs) by [migerh]
@@ -85,3 +89,4 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 [jschamburger]: https://github.com/jschamburger
 [phyk]: https://github.com/phyk
 [sbachstein]: https://github.com/sbachstein
+[marouanetayab]: https://github.com/marouanetayab
