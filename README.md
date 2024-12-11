@@ -12,6 +12,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 ### [Day 11](https://adventofcode.com/2024/day/11) 🪨
 
 1. [JavaScript](https://github.com/marouanetayab/Advent_of_Code_2024/blob/main/Day11/solution.js) by [marouanetayab]
+1. [Rust](https://github.com/migerh/aoc-2024/blob/main/src/day11/mod.rs) by [migerh]
 
 ### [Day 10](https://adventofcode.com/2024/day/10) 🌋
 
