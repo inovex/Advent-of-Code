@@ -9,6 +9,10 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 ## Solutions for the [Advent of Code 2024](https://adventofcode.com/2024)
 
+### [Day 12](https://adventofcode.com/2024/day/12) 
+
+1. [JavaScript](https://github.com/marouanetayab/Advent_of_Code_2024/blob/main/Day12/solution.js) by [marouanetayab]
+
 ### [Day 11](https://adventofcode.com/2024/day/11) 🪨
 
 1. [JavaScript](https://github.com/marouanetayab/Advent_of_Code_2024/blob/main/Day11/solution.js) by [marouanetayab]
