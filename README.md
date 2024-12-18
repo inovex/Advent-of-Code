@@ -13,6 +13,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 1. [Rust](https://github.com/migerh/aoc-2024/blob/main/src/day18/mod.rs) by [migerh]
 1. [JavaScript](https://github.com/marouanetayab/Advent_of_Code_2024/blob/main/Day18/solution.js) by [marouanetayab]
+1. [Rust](https://github.com/sbachstein/advent-of-code-2024/tree/main/day-18/src) by [sbachstein]
 
 ### [Day 17](https://adventofcode.com/2024/day/17) 🖥️
 
