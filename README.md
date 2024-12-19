@@ -101,8 +101,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 1. [Rust](https://github.com/migerh/aoc-2024/blob/main/src/day07/mod.rs) by [migerh]
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2024/day-07-python/aoc.py) by [yogan]
-   *(using [`itertools.product`](https://docs.python.org/3/library/itertools.html#itertools.product)
-   and brute force; run time ~1 s)*
+1. [Gleam](https://github.com/yogan/advent-of-code/blob/main/2024/day-07-gleam/src/aoc.gleam) ([tests](https://github.com/yogan/advent-of-code/blob/main/2024/day-07-gleam/test/aoc_test.gleam)) by [yogan]
 1. [Rust](https://github.com/sbachstein/advent-of-code-2024/tree/main/day-07/src) by [sbachstein]
 1. [Kotlin](https://github.com/jschamburger/advent-of-code-2024/blob/main/src/Day07.kt) by [jschamburger]
 
