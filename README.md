@@ -66,6 +66,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Rust](https://github.com/sbachstein/advent-of-code-2024/tree/main/day-15/src) by [sbachstein]
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2024/day-15-python/aoc.py) by [yogan]
 1. [Rust](https://github.com/migerh/aoc-2024/blob/main/src/day15/mod.rs) by [migerh]
+1. [Kotlin](https://github.com/jschamburger/advent-of-code-2024/blob/main/src/Day15.kt) by [jschamburger]
 
 ### [Day 14](https://adventofcode.com/2024/day/14) 🤖
 
@@ -73,6 +74,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2024/day-14-python/aoc.py) by [yogan]
 1. [Rust](https://github.com/sbachstein/advent-of-code-2024/tree/main/day-14/src) by [sbachstein]
 1. [Rust](https://github.com/migerh/aoc-2024/blob/main/src/day14/mod.rs) by [migerh]
+1. [Kotlin](https://github.com/jschamburger/advent-of-code-2024/blob/main/src/Day14.kt) by [jschamburger]
 
 ### [Day 13](https://adventofcode.com/2024/day/13) 🕹
 
