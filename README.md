@@ -16,7 +16,9 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2024/day-25-python/aoc.py) by [yogan]
 
 ### [Day 24](https://adventofcode.com/2024/day/24) ➰
+
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2024/day-24-python/aoc.py) by [yogan]
+1. [Rust](https://github.com/sbachstein/advent-of-code-2024/tree/main/day-24/src) by [sbachstein]
 
 ### [Day 23](https://adventofcode.com/2024/day/23) 🕹️
 
