@@ -131,6 +131,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 1. [Rust](https://github.com/migerh/aoc-2024/blob/main/src/day08/mod.rs) by [migerh]
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2024/day-08-python/aoc.py) by [yogan]
+1. [Haskell](https://github.com/yogan/advent-of-code/blob/main/2024/day-08-haskell/src/Lib.hs) ([tests](https://github.com/yogan/advent-of-code/blob/main/2024/day-08-haskell/test/Spec.hs), [main](https://github.com/yogan/advent-of-code/blob/main/2024/day-08-haskell/app/Main.hs)) by [yogan]
 1. [Rust](https://github.com/sbachstein/advent-of-code-2024/tree/main/day-08/src) by [sbachstein]
 1. [Kotlin](https://github.com/jschamburger/advent-of-code-2024/blob/main/src/Day08.kt) by [jschamburger]
 
