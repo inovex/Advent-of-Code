@@ -127,6 +127,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 1. [Rust](https://github.com/migerh/aoc-2024/blob/main/src/day09/mod.rs) by [migerh]
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2024/day-09-python/aoc.py) by [yogan]
+1. [Idris](https://github.com/yogan/advent-of-code/blob/main/2024/day-09-idris2/AoC.idr) ([tests](https://github.com/yogan/advent-of-code/blob/main/2024/day-09-idris2/Tests.idr), [main](https://github.com/yogan/advent-of-code/blob/main/2024/day-09-idris2/Main.idr)) by [yogan]
 1. [Rust](https://github.com/sbachstein/advent-of-code-2024/tree/main/day-09/src) by [sbachstein]
 1. [Kotlin](https://github.com/jschamburger/advent-of-code-2024/blob/main/src/Day09.kt) by [jschamburger]
 
