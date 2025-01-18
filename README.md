@@ -105,6 +105,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Rust](https://github.com/migerh/aoc-2024/blob/main/src/day12/mod.rs) by [migerh]
 1. [Rust](https://github.com/sbachstein/advent-of-code-2024/tree/main/day-12/src) by [sbachstein]
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2024/day-12-python/aoc.py) by [yogan]
+1. [Lua](https://github.com/yogan/advent-of-code/blob/main/2024/day-12-lua/aoc.lua) ([tests](https://github.com/yogan/advent-of-code/blob/main/2024/day-12-lua/aoc_spec.lua), [main](https://github.com/yogan/advent-of-code/blob/main/2024/day-12-lua/main.lua)) by [yogan]
 1. [Kotlin](https://github.com/jschamburger/advent-of-code-2024/blob/main/src/Day12.kt) by [jschamburger]
 
 ### [Day 11](https://adventofcode.com/2024/day/11) 🪨
