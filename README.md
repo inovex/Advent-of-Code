@@ -87,6 +87,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 1. [JavaScript](https://github.com/marouanetayab/Advent_of_Code_2024/blob/main/Day14/solution.js) by [marouanetayab]
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2024/day-14-python/aoc.py) by [yogan]
+1. [Nim](https://github.com/yogan/advent-of-code/blob/main/2024/day-14-nim/lib.nim) ([tests](https://github.com/yogan/advent-of-code/blob/main/2024/day-14-nim/tests.nim), [main](https://github.com/yogan/advent-of-code/blob/main/2024/day-14-nim/main.nim)) by [yogan]
 1. [Rust](https://github.com/sbachstein/advent-of-code-2024/tree/main/day-14/src) by [sbachstein]
 1. [Rust](https://github.com/migerh/aoc-2024/blob/main/src/day14/mod.rs) by [migerh]
 1. [Kotlin](https://github.com/jschamburger/advent-of-code-2024/blob/main/src/Day14.kt) by [jschamburger]
@@ -98,6 +99,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Kotlin](https://github.com/jschamburger/advent-of-code-2024/blob/main/src/Day13.kt) by [jschamburger]
 1. [Rust](https://github.com/migerh/aoc-2024/blob/main/src/day13/mod.rs) by [migerh]
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2024/day-13-python/aoc.py) by [yogan]
+1. [MATLAB](https://github.com/yogan/advent-of-code/blob/main/2024/day-13-matlab/aoc.m) by [yogan]
 
 ### [Day 12](https://adventofcode.com/2024/day/12) 🏞️
 
