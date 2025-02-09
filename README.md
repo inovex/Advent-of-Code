@@ -80,6 +80,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [JavaScript](https://github.com/marouanetayab/Advent_of_Code_2024/blob/main/Day15/solution.js) by [marouanetayab]
 1. [Rust](https://github.com/sbachstein/advent-of-code-2024/tree/main/day-15/src) by [sbachstein]
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2024/day-15-python/aoc.py) by [yogan]
+1. [OCaml](https://github.com/yogan/advent-of-code/blob/main/2024/day-15-ocaml/lib/aoc.ml) ([tests](https://github.com/yogan/advent-of-code/blob/main/2024/day-15-ocaml/test/test_aoc.ml), [main](https://github.com/yogan/advent-of-code/blob/main/2024/day-15-ocaml/bin/main.ml)) by [yogan]
 1. [Rust](https://github.com/migerh/aoc-2024/blob/main/src/day15/mod.rs) by [migerh]
 1. [Kotlin](https://github.com/jschamburger/advent-of-code-2024/blob/main/src/Day15.kt) by [jschamburger]
 
