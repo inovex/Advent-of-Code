@@ -37,6 +37,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Rust](https://github.com/yogan/advent-of-code/blob/main/2025/day-02-rust/src/main.rs) by [yogan]
 1. [Rust](https://github.com/migerh/aoc-2025/blob/main/src/day02/mod.rs) by [migerh]
 1. [Rust](https://github.com/sbachstein/advent-of-code-2025/blob/main/src/day-02.rs) by [sbachstein]
+1. [Kotlin](https://github.com/jschamburger/advent-of-code-2025/blob/main/src/Day02.kt) by [jschamburger]
 
 
 ### [Day 1](https://adventofcode.com/2025/day/1) 🔐
