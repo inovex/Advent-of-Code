@@ -10,11 +10,17 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 ## Solutions for the [Advent of Code 2025](https://adventofcode.com/2025)
 
+### [Day 5](https://adventofcode.com/2025/day/5) 🦠
+
+1. [Rust](https://github.com/migerh/aoc-2025/blob/main/src/day05/mod.rs) by [migerh]
+
+
 ### [Day 4](https://adventofcode.com/2025/day/4) 🧻
 
 1. [Rust](https://github.com/migerh/aoc-2025/blob/main/src/day04/mod.rs) by [migerh]
 1. [Rust](https://github.com/sbachstein/advent-of-code-2025/blob/main/src/day-04.rs) by [sbachstein]
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2025/day-04-python/aoc.py) by [yogan]
+
 
 ### [Day 3](https://adventofcode.com/2025/day/3) ⚡
 
@@ -23,12 +29,14 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Haskell](https://github.com/yogan/advent-of-code/blob/main/2025/day-03-haskell/src/Lib.hs) ([main](https://github.com/yogan/advent-of-code/blob/main/2025/day-03-haskell/app/Main.hs), [tests](https://github.com/yogan/advent-of-code/blob/main/2025/day-03-haskell/test/Spec.hs)) by [yogan]
 1. [Rust](https://github.com/sbachstein/advent-of-code-2025/blob/main/src/day-03.rs) by [sbachstein]
 
+
 ### [Day 2](https://adventofcode.com/2025/day/2) 🎁
 
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2025/day-02-python/aoc.py) by [yogan]
 1. [Rust](https://github.com/yogan/advent-of-code/blob/main/2025/day-02-rust/src/main.rs) by [yogan]
 1. [Rust](https://github.com/migerh/aoc-2025/blob/main/src/day02/mod.rs) by [migerh]
 1. [Rust](https://github.com/sbachstein/advent-of-code-2025/blob/main/src/day-02.rs) by [sbachstein]
+
 
 ### [Day 1](https://adventofcode.com/2025/day/1) 🔐
 
