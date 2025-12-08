@@ -10,6 +10,11 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 ## Solutions for the [Advent of Code 2025](https://adventofcode.com/2025)
 
+### [Day 8](https://adventofcode.com/2025/day/8) 🔌
+
+1. [Rust](https://github.com/migerh/aoc-2025/blob/main/src/day08/mod.rs) by [migerh]
+
+
 ### [Day 7](https://adventofcode.com/2025/day/7) ⏲️
 
 1. [Rust](https://github.com/migerh/aoc-2025/blob/main/src/day07/mod.rs) by [migerh]
