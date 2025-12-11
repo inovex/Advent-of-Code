@@ -57,6 +57,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2025/day-05-python/aoc.py) by [yogan]
 1. [Elixir](https://github.com/yogan/advent-of-code/blob/main/2025/day-05-elixir/lib/aoc.ex) ([main](https://github.com/yogan/advent-of-code/blob/main/2025/day-05-elixir/lib/main.ex), [tests](https://github.com/yogan/advent-of-code/blob/main/2025/day-05-elixir/test/aoc_test.exs)) by [yogan]
 1. [Rust](https://github.com/sbachstein/advent-of-code-2025/blob/main/src/day-05.rs) by [sbachstein]
+1. [Kotlin](https://github.com/jschamburger/advent-of-code-2025/blob/main/src/Day05.kt) by [jschamburger]
 
 
 ### [Day 4](https://adventofcode.com/2025/day/4) 🧻
