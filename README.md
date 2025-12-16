@@ -53,6 +53,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2025/day-07-python/aoc.py) by [yogan]
 1. [Kotlin](https://github.com/yogan/advent-of-code/blob/main/2025/day-07-kotlin/app/src/main/kotlin/aoc/App.kt) ([tests](https://github.com/yogan/advent-of-code/blob/main/2025/day-07-kotlin/app/src/test/kotlin/aoc/AppTest.kt)) by [yogan]
 1. [Rust](https://github.com/sbachstein/advent-of-code-2025/blob/main/src/day-07.rs) by [sbachstein]
+1. [Kotlin](https://github.com/jschamburger/advent-of-code-2025/blob/main/src/Day07.kt) by [jschamburger]
 
 
 ### [Day 6](https://adventofcode.com/2025/day/6) 🦑
