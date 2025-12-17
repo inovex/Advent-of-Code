@@ -45,6 +45,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2025/day-08-python/aoc.py) by [yogan]
 1. [Nim](https://github.com/yogan/advent-of-code/blob/main/2025/day-08-nim/aoc.nim) ([tests](https://github.com/yogan/advent-of-code/blob/main/2025/day-08-nim/aoctests.nim)) by [yogan]
 1. [Rust](https://github.com/sbachstein/advent-of-code-2025/blob/main/src/day-08.rs) by [sbachstein]
+1. [Kotlin](https://github.com/jschamburger/advent-of-code-2025/blob/main/src/Day08.kt) by [jschamburger]
 
 
 ### [Day 7](https://adventofcode.com/2025/day/7) ⏲️
