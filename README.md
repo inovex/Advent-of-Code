@@ -36,6 +36,7 @@ We collect solutions to the [Advent of Code](https://adventofcode.com/) here.
 
 1. [Part 1 in Rust](https://github.com/migerh/aoc-2025/blob/main/src/day09/mod.rs) and [Part 2 in JS](https://github.com/migerh/aoc-2025/blob/main/src/day09/day9.js) ([reason](https://github.com/migerh/aoc-2025/commit/f5982279376d803354344d08de54a99d1adc4af8)) by [migerh]
 1. [Python](https://github.com/yogan/advent-of-code/blob/main/2025/day-09-python/aoc.py) by [yogan]
+1. [F#](https://github.com/yogan/advent-of-code/blob/main/2025/day-09-fsharp/AoC.fs) by [yogan]
 1. [Rust](https://github.com/sbachstein/advent-of-code-2025/blob/main/src/day-09.rs) by [sbachstein]
 1. [Kotlin](https://github.com/jschamburger/advent-of-code-2025/blob/main/src/Day09.kt) by [jschamburger]
 
